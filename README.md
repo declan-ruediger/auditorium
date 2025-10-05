@@ -44,7 +44,7 @@ cargo install --git https://github.com/nate-craft/auditorium
 # Including optional globally-controlled mpris support
 cargo install --git https://github.com/nate-craft/auditorium --features mpris
 
-# Including optional covert art support
+# Including optional cover art support
 cargo install --git https://github.com/nate-craft/auditorium --features art
 
 # Including optional globally-controlled mpris support AND cover art
